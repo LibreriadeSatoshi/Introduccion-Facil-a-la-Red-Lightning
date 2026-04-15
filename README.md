@@ -116,7 +116,6 @@ None. Same requirements as Bitcoin 4 Everyone.
 ## 👨‍🏫 Instructors
 
 - **Sebastián Cordero** — Education Lead
-- **Dulce** — Curriculum Designer & Faculty
 
 ---
 
